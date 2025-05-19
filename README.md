@@ -25,3 +25,40 @@ Ensure you have **Python 3.7+** installed. Then install the required libraries:
 
 ```bash
 pip install opencv-python numpy matplotlib scikit-image pandas
+
+```
+---
+
+## 📷 Output Preview
+
+The script displays a visual plot like this:
+
+- Each connected region is colored uniquely.
+- The center of each component is annotated with its label number.
+
+---
+
+## 📚 Libraries Used
+
+- `OpenCV` – Image reading and preprocessing
+- `NumPy` – Matrix operations
+- `Matplotlib` – Visualization
+- `scikit-image` – Labeling and region analysis
+- `Pandas` – Exporting label matrix to CSV
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. Feel free to use or modify it for your own educational or research purposes.
+
+---
+
+## 👤 Author
+
+**Your Name**  
+*Thesis Project – [Your University]*
+
+Feel free to reach out or open issues if you have questions or suggestions!
+```
+
