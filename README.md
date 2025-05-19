@@ -31,7 +31,7 @@ pip install opencv-python numpy matplotlib scikit-image pandas
 
 ## 📷 Output Preview
 
-The script displays a visual plot like this:
+The script displays a visual plot like the output.png:
 
 - Each connected region is colored uniquely.
 - The center of each component is annotated with its label number.
@@ -48,17 +48,11 @@ The script displays a visual plot like this:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use or modify it for your own educational or research purposes.
-
----
-
 ## 👤 Author
 
-**Your Name**  
-*Thesis Project – [Your University]*
+**Lymperis Lymperidis**
+**Supervisor Xenophon Zabulis**
+*Thesis Project – [University of Crete]*
 
-Feel free to reach out or open issues if you have questions or suggestions!
 ```
 
