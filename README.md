@@ -54,5 +54,12 @@ The script displays a visual plot like the output.png:
 **Supervisor Xenophon Zabulis**
 *Thesis Project – [University of Crete]*
 
-```
+---
+
+## 📷 Rendered Images
+
+The output is being displayed in a rendering Tool as well so you can see that the component labeling worked 
+See the Rendered_1 to 4 for examples
+
+---
 
